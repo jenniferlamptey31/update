@@ -4,7 +4,6 @@ CHANGELOG 1.4
 
 fix bugs
 
-
 Please if you don't see downloaded file after you updated, disable antivirus!
 
 .:.:.:.:.:.:.:
